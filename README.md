@@ -8,7 +8,7 @@ I'm interested in AI, ML and their applications to the real world. Currently, I'
 
 <br>
 
-## Some tools and frameworks I'm learning and have some experience with: 
+## Some tools and frameworks
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,scikitlearn,sqlite&theme=dark&perline=13" alt="My Skills" /></a>
 </p>
