@@ -10,5 +10,6 @@ I'm interested in AI, ML and their applications to the real world. Currently, I'
 
 ## Some tools and frameworks I'm learning and have some experience with: 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma](https://skillicons.dev/icons?i=python,cpp,fastapi,scikitlearn,sqlite&theme=dark&perline=13)" />
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,fastapi,scikitlearn,sqlite&theme=dark&perline=13)](https://skillicons.dev)
 </p>
+
