@@ -13,3 +13,4 @@ I'm interested in AI, ML and their applications to the real world. Currently, I'
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,scikitlearn,sqlite&theme=dark&perline=13" alt="My Skills" /></a>
 </p>
 
+[![Rifah Fatima profile views](https://u8views.com/api/v1/github/profiles/211827765/views/day-week-month-total-count.svg)](https://u8views.com/github/rf266)
