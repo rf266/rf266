@@ -4,7 +4,7 @@ I'm a Computer Engineering student, looking to learn, innovate and become a bett
 
 <br> 
 
-I'm interested in AI, ML and their applications to the real world. Recently, I developed an AI Agent that can support learners in their journey with Python concepts. 
+I'm interested in AI, ML and their applications to the real world. Recently, I developed an AI powered Python tutor that can support learners in their journey with Python concepts. 
 
 <br>
 
