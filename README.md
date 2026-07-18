@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Computer Engineering student, looking to learn, innovate and become a better engineer!
+I'm a Computer Engineering student, looking to learn, innovate and work on engineering projects!
 
 <br> 
 
